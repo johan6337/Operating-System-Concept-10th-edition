@@ -7,5 +7,5 @@ This is my personal repo that contain my answer to questions in the Operating Sy
 Just type the name of it on google and download it. Or i give u the link here :D 
 [PDF](https://archive.org/details/operatingsystemconcepts10th)
 
-# IDK IF THERE ARE OTHER ANSWER ANYWHERE THERE BUT IF U COMEACROSS THIS WHILE SEARCHING FOR ANSWER FOR THAT BOOK SO PLS SKIP IT.
+# WARNING: if you comeacross this while searching for answers so you shouldn't trust any answer in this repo. And if u find
 
